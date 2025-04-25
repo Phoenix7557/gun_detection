@@ -1,2 +1,5 @@
+# Ignoriere alle .jpg-Dateien
 *.jpg
+
+# Ignoriere den venv-Ordner
 venv/
